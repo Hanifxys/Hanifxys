@@ -22,15 +22,14 @@ Thanks for dropping by. Let's connect and make the web a more interactive place 
   <br>
   <br>
   
-### Github Statistic
 <p align="left">
-<a href="https://github.com/Hanifxys">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hanifxys&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hanifxys&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/gilangadhan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### Reach me on
-- <a href="(https://www.linkedin.com/in/muhamadhanif07)">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/muhamadhanif07">LinkedIn</a>
 - mhmdhanif784@gmail.com
 - <a href="https://instagram.com/hanifxy_?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D">Instagram</a>
