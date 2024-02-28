@@ -4,7 +4,7 @@ I'm a dedicated Web Developer who loves to craft compelling web experiences. Bri
 
 - 🔭 Currently working as a freelance at fiver.
 -  🚀 I specialize in both frontend and backend, making me a full-stack developer.
-- 🌐 Proficient in HTML, CSS, JavaScript, java, Golang and im familiar with React, Node.js,express js].
+- 🌐 Proficient in HTML, CSS, JavaScript, java, Golang,Php and im familiar with Laravel, Node.js,express js].
 - 👯 Open to collaborate on exciting web development projects. Let's build something amazing together!
 - 💬 Ask me about modern web development, my journey, or anything tech-related.
 - 📫 You can reach me on [LinkedIn]([https://www.linkedin.com/in/hanifxys/](https://www.linkedin.com/in/muhamadhanif07)) or shoot an [email](mailto:mhmdhanif784@gmail.com) my way.
